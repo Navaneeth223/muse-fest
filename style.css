@@ -1,0 +1,38 @@
+
+body{
+    background-color: #F6DE63;
+    margin: 0;
+    font-family: 'Biryani', sans-serif;
+}
+
+.navbar{
+    margin: auto 7%;
+}
+
+#main{
+    text-align: center;
+    margin:1% auto 0;
+}
+
+.footmargin{
+    margin: 5% 7% 0;
+}
+/* h6{
+    font-size: 0.8rem;
+} */
+.btn{
+    border-radius: 28px;
+}
+
+.i{
+    width: 2rem; 
+    height: 2rem;
+   color: #000;
+   font-weight: bolder;
+}
+
+.active{
+    font-size: 1.2rem;
+    font-weight: 400;
+
+}
